@@ -21,6 +21,8 @@
 
 - [Medusa Claude Skills](https://github.com/medusajs/medusa/tree/develop/.claude/skills): Claude Code skills from the Medusa open-source commerce platform, including a dedicated technical writer skill that automates authoring of MDX documentation files while enforcing Medusa's style guide and Vale compliance standards.
 
+- [MongoDB Docs Claude Skills](https://github.com/mongodb/docs/tree/main/.claude/skills): Claude Code skills from MongoDB's official documentation repository, covering the full docs contribution lifecycle: Jira triage, PR creation, release notes authoring, redirect handling, and staging preview.
+
 - [Validated Patterns Docs – RuleSync Skills](https://github.com/validatedpatterns/docs/tree/main/.rulesync/skills): A set of rulesync skills from the Red Hat Validated Patterns project, demonstrating how documentation writing standards can be enforced programmatically in a docs-as-code environment.
 
 ---
