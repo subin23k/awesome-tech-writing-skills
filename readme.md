@@ -35,6 +35,7 @@
 
 ## Tools
 
+- [Claude Skill Creator](https://claude.com/plugins/skill-creator): Anthropic's official toolkit for developing, testing, and iterating on Claude Code skills. Provides four modes: Create, Eval, Improve, and Benchmark, covering the full skill development lifecycle from initial concept to production-ready output. The underlying [SKILL.md](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) is also a useful reference for understanding how a well-structured skill is built.
 - [Skill Validator](https://github.com/agent-ecosystem/skill-validator): A validation tool for agent skill files. Useful when authoring new skills to ensure they conform to expected structure and standards before publishing or submitting a PR.
 
 ---
