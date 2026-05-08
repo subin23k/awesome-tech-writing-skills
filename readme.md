@@ -8,6 +8,7 @@
 
 - [Agent & LLM Skills](#agent--llm-skills)
 - [AI Prompt Libraries](#ai-prompt-libraries)
+- [Best Practices](#best-practices)
 - [Tools](#tools)
 - [Contributing](#contributing)
 
@@ -16,20 +17,22 @@
 ## Agent & LLM Skills
 
 - [Anaxite Agent Skills](https://github.com/anaxite/agent-skills/tree/main/skills): A collection of modular agent skills for AI-assisted workflows. Several skills are applicable to technical documentation tasks, including content structuring and summarization.
-
 - [Elastic Docs Skills](https://github.com/elastic/elastic-docs-skills/tree/main/skills): Official documentation skills from Elastic, showcasing how the company structures AI-assisted writing skills for large-scale technical documentation.
-
 - [Medusa Claude Skills](https://github.com/medusajs/medusa/tree/develop/.claude/skills): Claude Code skills from the Medusa open-source commerce platform, including a dedicated technical writer skill that automates authoring of MDX documentation files while enforcing Medusa's style guide and Vale compliance standards.
-
 - [MongoDB Docs Claude Skills](https://github.com/mongodb/docs/tree/main/.claude/skills): Claude Code skills from MongoDB's official documentation repository, covering the full docs contribution lifecycle: Jira triage, PR creation, release notes authoring, redirect handling, and staging preview.
-
 - [Validated Patterns Docs – RuleSync Skills](https://github.com/validatedpatterns/docs/tree/main/.rulesync/skills): A set of rulesync skills from the Red Hat Validated Patterns project, demonstrating how documentation writing standards can be enforced programmatically in a docs-as-code environment.
 
 ---
 
 ## AI Prompt Libraries
 
-- [Awesome Tech Writing – AI Prompt Library](https://snehap16.github.io/awesome-tech-writing/ai-prompt-library.html): A prompt library for technical writers covering API docs, release notes, and user guide authoring with AI assistants.
+- [Prompt Library for Writers](https://snehap16.github.io/awesome-tech-writing/ai-prompt-library.html): A prompt library for technical writers covering API docs, release notes, and user guide authoring with AI assistants.
+
+---
+
+## Best Practices
+
+- [Agent Skills – Best Practices for Skill Creation](https://agentskills.io/skill-creation/best-practices): A guide from the Agent Skills open standard on building effective skills, covering how to ground them in real expertise, manage context usage, calibrate instruction specificity, and apply structural patterns like gotchas sections, output templates, and validation loops.
 
 ---
 
