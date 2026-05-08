@@ -1,4 +1,4 @@
-# Awesome Technical Writing Skills [
+# Awesome Technical Writing Skills
 
 > A curated list of AI skills, prompt libraries, and agent tools to enhance
 > and automate technical writing workflows. Focused on LLM-native,
@@ -40,7 +40,7 @@
 ## Contributing
 
 Contributions welcome! Please read the
-[contribution guidelines](CONTRIBUTING.md) first.
+[contribution guidelines](contributing.md) first.
 
 ### 🚀 What We're Looking For
 
