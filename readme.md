@@ -16,13 +16,15 @@
 
 - [Anaxite Agent Skills](https://github.com/anaxite/agent-skills/tree/main/skills): A collection of modular agent skills for AI-assisted workflows. Several skills are applicable to technical documentation tasks, including content structuring and summarization.
 - [Elastic Docs Skills](https://github.com/elastic/elastic-docs-skills/tree/main/skills): Official documentation skills from Elastic, showcasing how the company structures AI-assisted writing skills for large-scale technical documentation.
+- [GitHub Copilot – Diátaxis Documentation Expert](https://github.com/github/awesome-copilot/blob/main/skills/documentation-writer/SKILL.md): A GitHub Copilot skill for writing documentation following the Diátaxis framework, which structures content into four distinct modes: tutorials, how-to guides, reference, and explanation.
+- [Google Gemini CLI – Docs-Writer Skill](https://github.com/google-gemini/gemini-cli/blob/main/.gemini/skills/docs-writer/SKILL.md): A skill from the Google Gemini CLI repository for authoring and maintaining documentation in a CLI-driven workflow.
 - [Medusa Claude Skills](https://github.com/medusajs/medusa/tree/develop/.claude/skills): Claude Code skills from the Medusa open-source commerce platform, including a dedicated technical writer skill that automates authoring of MDX documentation files while enforcing Medusa's style guide and Vale compliance standards.
 - [MongoDB Docs Claude Skills](https://github.com/mongodb/docs/tree/main/.claude/skills): Claude Code skills from MongoDB's official documentation repository, covering the full docs contribution lifecycle: Jira triage, PR creation, release notes authoring, redirect handling, and staging preview.
 - [Validated Patterns Docs – RuleSync Skills](https://github.com/validatedpatterns/docs/tree/main/.rulesync/skills): A set of rulesync skills from the Red Hat Validated Patterns project, demonstrating how documentation writing standards can be enforced programmatically in a docs-as-code environment.
 
 ## AI Prompt Libraries
 
-- [Prompt Library for Writers](https://snehap16.github.io/awesome-tech-writing/ai-prompt-library.html): A prompt library for technical writers covering API docs, release notes, and user guide authoring with AI assistants.
+- [Prompt Library for Writers](https://snehap16.github.io/awesome-tech-writing/ai-prompt-library.html): A prompt library for technical writers, covering API docs, release notes, and user guide authoring with AI assistants.
 
 ## Best Practices
 

@@ -5,8 +5,6 @@ niche: LLM-native, agent-based, and machine-readable skills and prompt
 resources for technical writing workflows. Please read these guidelines
 before submitting a pull request.
 
----
-
 ## What Belongs Here
 
 This list is intentionally scoped. Submissions must fall into one of these
@@ -30,8 +28,6 @@ To keep the list focused, please do not submit:
 - Documentation platforms or static site generators (unless they expose
   machine-readable writing skill definitions).
 - Resources unrelated to AI/LLM-assisted documentation workflows.
-
----
 
 ## Submission Guidelines
 
@@ -66,8 +62,6 @@ Before submitting, verify that your link:
    scope.
 5. Submit the PR — a maintainer will review within 7 days.
 
----
-
 ## Suggesting a New Section
 
 If your resource doesn't fit existing sections but clearly belongs in this
@@ -77,12 +71,8 @@ list, open an **Issue** first to propose the new section. Include:
 - At least two resources that would go in that section.
 - Why the section is distinct from existing ones.
 
----
-
 ## Code of Conduct
 
 All contributors are expected to be respectful and constructive. Harassment,
 spam, or self-promotion without genuine value to the list will result in
 immediate rejection and blocking.
-
----
