@@ -29,8 +29,8 @@
 ## Best Practices
 
 - [Agent Skills – Best Practices for Skill Creation](https://agentskills.io/skill-creation/best-practices): A guide from the Agent Skills open standard on building effective skills, covering how to ground them in real expertise, manage context usage, calibrate instruction specificity, and apply structural patterns like gotchas sections, output templates, and validation loops.
-- [The Prompting Playbook](https://www.youtube.com/watch?v=G2B0YWuJUgI): An Anthropic tech talk on practical prompting patterns for getting more reliable, useful outputs from AI assistants.
 - [Stop Babysitting Your Agents](https://www.youtube.com/watch?v=wI0ptqCSL0I): An Anthropic tech talk on designing agent workflows that can make progress with less manual supervision.
+- [The Prompting Playbook](https://www.youtube.com/watch?v=G2B0YWuJUgI): An Anthropic tech talk on practical prompting patterns for getting more reliable, useful outputs from AI assistants.
 
 ## Tools
 

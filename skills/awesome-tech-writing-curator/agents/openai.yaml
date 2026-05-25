@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome List Curator"
+  short_description: "Curate README entries and sections"
+  default_prompt: "Use $awesome-tech-writing-curator to add a resource to the awesome technical writing skills list."

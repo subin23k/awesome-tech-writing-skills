@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome List Reviewer"
+  short_description: "Review resource fit and README quality"
+  default_prompt: "Use $awesome-tech-writing-reviewer to review a proposed README entry for this awesome list."

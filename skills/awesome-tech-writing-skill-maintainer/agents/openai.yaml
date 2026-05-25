@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Skill Maintainer"
+  short_description: "Maintain this repo's AI skills"
+  default_prompt: "Use $awesome-tech-writing-skill-maintainer to update the repo-local maintenance skills."
