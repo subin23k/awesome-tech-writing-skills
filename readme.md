@@ -15,6 +15,7 @@
 ## Agent & LLM Skills
 
 - [Anaxite Agent Skills](https://github.com/anaxite/agent-skills/tree/main/skills): A collection of modular agent skills for AI-assisted workflows. Several skills are applicable to technical documentation tasks, including content structuring and summarization.
+- [Doc Detective Agent Tools](https://github.com/doc-detective/agent-tools): A collection of Doc Detective agents, skills, plugins, and commands for turning documentation procedures into executable tests. Useful for validating that documented workflows match actual application behavior across AI coding agents.
 - [Elastic Docs Skills](https://github.com/elastic/elastic-docs-skills/tree/main/skills): Official documentation skills from Elastic, showcasing how the company structures AI-assisted writing skills for large-scale technical documentation.
 - [GitHub Copilot – Diátaxis Documentation Expert](https://github.com/github/awesome-copilot/blob/main/skills/documentation-writer/SKILL.md): A GitHub Copilot skill for writing documentation following the Diátaxis framework, which structures content into four distinct modes: tutorials, how-to guides, reference, and explanation.
 - [Google Gemini CLI – Docs-Writer Skill](https://github.com/google-gemini/gemini-cli/blob/main/.gemini/skills/docs-writer/SKILL.md): A skill from the Google Gemini CLI repository for authoring and maintaining documentation in a CLI-driven workflow.
